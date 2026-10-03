@@ -1,7 +1,7 @@
 ---
 title: Political Concepts  
 layout: default
-parent: Definition Of Terms
+parent: Key Concepts
 nav_order: 1
 ---
 #   Political Concepts

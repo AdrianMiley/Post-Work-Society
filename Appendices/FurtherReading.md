@@ -42,6 +42,8 @@ The following list are some favourites of mine although I do not necessarily agr
 | [Time Banking](./TimeBanks.org)                                                   |                                                                                                                                                                                               |
 | [Campaign For Fiscal responsibility](https://www.cukfr.org/)                      |                                                                                                                                                                                               |
 | [World Population Review](https://worldpopulationreview.com)                     | World Population Review's goal is to make recent statistical data more accessible through graphs, charts, analysis and visualizations and develop projections based on recent growth. |
+|[Moneyless Society](https://moneylesssociety.com/)||
+
 
 ##  Opinions and Ideas
 
@@ -60,16 +62,18 @@ I know that's a bad habit and likely means that I'll miss some significant detai
 
 ### Books
 
-| Author                                                                         | Worth Reading                                                                                                       | Core Concept                                                                |
-|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------|
-| [Nick Srnicek](https://en.wikipedia.org/wiki/Nick_Srnicek)                     | [Inventing the Future](https://en.wikipedia.org/wiki/Inventing_the_Future:_Postcapitalism_and_a_World_Without_Work) | Automation & tech-monopolies                                                |
-| [Aaron Bastani](https://en.wikipedia.org/wiki/Aaron_Bastani)                   | [Fully Automated Luxury...](https://en.wikipedia.org/wiki/Fully_Automated_Luxury_Communism)                         | Luxury tech-communism                                                       |
-| [David Graeber](https://en.wikipedia.org/wiki/David_Graeber)                   | [Bullshit Jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs)                                                        | Eliminating useless "make work" jobs                                        |
-| [Paul Mason](https://en.wikipedia.org/wiki/Paul_Mason_(journalist))            | [Post Capitalism](https://en.wikipedia.org/wiki/PostCapitalism)                                                     | Free digital abundance                                                      |
-| [Rutger Bregman](https://en.wikipedia.org/wiki/Rutger_Bregman)                 | [Utopia for Realists](https://en.wikipedia.org/wiki/Utopia_for_Realists)                                            | Practical utopian policies                                                  |
-| [Karl Marx](https://en.wikipedia.org/wiki/Karl_Marx)                           | [Das Kapital](https://en.wikipedia.org/wiki/Das_Kapital)                                                            | Marxism - need I say more? [1]                                              |
+| Author                                                                         | Worth Reading                                                                                                       | Core Concept                                                               |
+|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|
+| [Nick Srnicek](https://en.wikipedia.org/wiki/Nick_Srnicek)                     | [Inventing the Future](https://en.wikipedia.org/wiki/Inventing_the_Future:_Postcapitalism_and_a_World_Without_Work) | Automation & tech-monopolies                                               |
+| [Aaron Bastani](https://en.wikipedia.org/wiki/Aaron_Bastani)                   | [Fully Automated Luxury...](https://en.wikipedia.org/wiki/Fully_Automated_Luxury_Communism)                         | Luxury tech-communism                                                      |
+| [David Graeber](https://en.wikipedia.org/wiki/David_Graeber)                   | [Bullshit Jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs)                                                        | Eliminating useless "make work" jobs                                       |
+| [Paul Mason](https://en.wikipedia.org/wiki/Paul_Mason_(journalist))            | [Post Capitalism](https://en.wikipedia.org/wiki/PostCapitalism)                                                     | Free digital abundance                                                     |
+| [Rutger Bregman](https://en.wikipedia.org/wiki/Rutger_Bregman)                 | [Utopia for Realists](https://en.wikipedia.org/wiki/Utopia_for_Realists)                                            | Practical utopian policies                                                 |
+| [Karl Marx](https://en.wikipedia.org/wiki/Karl_Marx)                           | [Das Kapital](https://en.wikipedia.org/wiki/Das_Kapital)                                                            | Marxism - need I say more? [1]                                             |
 | [Peter Kropotkin](https://en.wikipedia.org/wiki/Peter_Kropotkin)               | [The Conquest Of Bread](https://en.wikipedia.org/wiki/The_Conquest_of_Bread)                                        | Decentralized economic system based on mutual aid and voluntary cooperation |
 | Sven Smit ([McKinsey Global Institute](https://www.mckinsey.com/mgi/about-us)) | [A Century Of Plenty](https://www.amazon.co.uk/Century-Plenty-Story-Progress-Generations/dp/B0G66QJFDN)             |
+|Uma Vanka| [The Future Is BIG: How Emerging Technologies are Transforming Industry and Societies]()                            |
+|Avril Chester| [Leading with Humanity in an AI World]()                                                                            |
 
 Note:
 1. I included Karl Marx's "Kapital" which I have actually but that's honestly a seriously difficult set of books to read and unless you're a masochist (I was 40 years ago) would be much better off reading the much, much shorter summary written by Mary Marcy listed in the on-line articles below.  
@@ -98,4 +102,6 @@ A list of random articles that I enjoyed reading that might or might not have sh
 | [Citizenship and Social Class](https://dissentmagazine.org/article/t-h-marshalls-citizenship-and-social-class/)                                                                                  | Mitchell Cohen                       |
 | [Fairer ways of spreading prosperity](https://neweconomics.org/2018/02/better-fairer-ways-spreading-prosperity-ubi)                                                                              | Anna Coote                           | Universal Basic Services    |
 | [Roadmap for Eradicating Poverty](https://www.neep-poverty.org/roadmap-for-eradicating-poverty-beyond-growth/)                                                                                   | Olivier De Schutter                  |
-| [Multi-Currency International Financial Architecture](multi-currency International Financial Architecture)                                                                                       | _Unattributed_    |
+| [Multi-Currency International Financial Architecture]()                                                                                                                                          | _Unattributed_                       |
+| [Young People ARe Different](https://www.lrb.co.uk/the-paper/v48/n14/william-davies/young-people-are-different)                                                                                  | William Davies                       |
+| [Capitalism vs Socialism vs Mixed Economy](https://maseconomics.com/capitalism-vs-socialism-vs-mixed-economy-how-modern-economies-are-actually-organized/)                                       | Majid Ali Sanghro                    |

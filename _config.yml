@@ -12,6 +12,7 @@ remote_theme: just-the-docs/just-the-docs
 nav_enabled: true
 heading_anchors: true
 color_scheme: light
+search_enabled: true
 
 plugins:
   - jekyll-default-layout

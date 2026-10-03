@@ -1,7 +1,7 @@
 ---
 title: Economics Concepts
 layout: default
-parent: Definition Of Terms
+parent: Key Concepts
 nav_order: 2
 ---
 ##  Economics Concepts
