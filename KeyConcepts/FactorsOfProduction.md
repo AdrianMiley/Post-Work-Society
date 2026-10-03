@@ -32,8 +32,8 @@ For example, at the micro-scale a single worker might buy their tools from a too
 However, at the macro scale we could be discussing a nation state (or even the entire world) in which case anything that is man-made internal to that Nation State is no longer Capital but the product of Resource and Labour. 
 This was the key point that Adam Smith was making in "Wealth of Nations" where he considered Capital for be any man-made resource that needed to be purchase or sourced from some supplier external to the Nation State tat the Nation State then used as input to produce some other product.
 
-As a consequence, because we have this situation where the same thging could be classified differently according the context in which it is being discussed there is little choice than to provide generic definitions for generic terms and then discuss exact definitions case by case when they arise.  
-(Unfortunately after decades working as an Information Architecxt I learnt the hard way that exact definitions are difficult tpo provide without context. This is the exact premise of Noam Chomsky's "_Meaning of Meaning_" work.)
+As a consequence, because we have this situation where the same thing could be classified differently according the context in which it is being discussed there is little choice than to provide generic definitions for generic terms and then discuss exact definitions case by case when they arise.  
+(Unfortunately after decades working as an Information Architect I learnt the hard way that exact definitions are difficult tpo provide without context. This is the exact premise of Noam Chomsky's "_Meaning of Meaning_" work.)
 
 ## The Evolution of the Factors Of Production
 
@@ -77,7 +77,7 @@ In early Classical Economics works there was no clear distinction and, in fact, 
 Karl Marx actually used both terms in his writings. In Capital (1867), he defined "_Factors of Production_" as a broad combination of the subjective factor (human labor power) and the objective factors (the physical materials). 
 He reserved means of production strictly for the physical elements.
 
-It subsequently became even more confusing when sopme political thinkers argued that Labour was the only Means of Production becaue it's human effort that converts Natural Resources into finished Goods. This, of course, is the opposite of the definition used in Economics. 
+It subsequently became even more confusing when some political thinkers argued that Labour was the only Means of Production because it's human effort that converts Natural Resources into finished Goods. This, of course, is the opposite of the definition used in Economics. 
 
 Subsequently, the linguistic divide became absolute during the 20th century and nowadays the usage of the two terms:
 * "Factors of Production" is primarily used in Economics as a neutral, depoliticized way to teach how business management works under capitalism.
