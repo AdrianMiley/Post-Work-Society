@@ -75,7 +75,7 @@ Anarcho-Capitalism advocates for the complete elimination of the state in favour
 The core principles are based on the core principles of **Anarchism** philosophy...
 - The **Non-Aggression Principle (NAP)** : no individual or group has the right to initiate force or violence against another person or their property.
 - **Private Property Rights** : Every individual has absolute ownership over their own body and any property they acquire through peaceful trade, gifts, or honest work.
-- **Voluntaryism** : All human interactions, association, and agreements must be completely consensual and agreed between the parties involved.
+- **Voluntarism** : All human interactions, association, and agreements must be completely consensual and agreed between the parties involved.
 
 In this system, all services, including law enforcement; courts; and infrastructure are provided by private businesses and voluntary contracts rather than the government.
 
@@ -94,7 +94,7 @@ Vampire capitalism is a critical term used to describe a form of capitalism that
 
 The phrase uses the vampire metaphor to argue that the economic system behaves like a parasite—surviving and growing not by creating its own value, but by "sucking the life force" out of human labour and the environment.
 
-The term itself traces back to Karl Marx's (incredibly) famous book "_Das Kapital_" (1867) where Marx wrote that "Capital is dead labour which, vampire-like, lives only by sucking living labour".
+The term itself traces back to Karl Marx's (incredibly) famous book "_Capital_" (1867) where Marx wrote that "Capital is dead labour which, vampire-like, lives only by sucking living labour".
 He argued that business owners grow wealthy by underpaying workers for the actual value they produce.
 
 However the term become popular and defined in much more detail when sociologist Paul Kennedy published "_Vampire Capitalism_" in 2016.

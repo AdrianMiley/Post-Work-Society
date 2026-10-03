@@ -28,7 +28,7 @@ There are many, many different ways that we could classify work activities and m
 As per the general definition one way is to define Work by how much physical and/or mental labour goes into completing some piece of work.
 Some activities would clearly require a greater degree of physical labour in order to complete that activity whilst other activities are less physical but require a greater degree of thought in order to complete the activity successfully. 
 
-Another way is to define an activity according to its complexity i.e. how much technical knowledge is required to complete the activity or, in some casdes, technical knowledge required just to understand twhat the activity actually is.
+Another way is to define an activity according to its complexity i.e. how much technical knowledge is required to complete the activity or, in some cases, technical knowledge required just to understand what the activity actually is.
 
 Using these two classifications then allows us to build a matrix to classify specific types of work (the job), e.g. Medical Doctor or Electrician, according it's complexity e.g.
 
@@ -69,11 +69,11 @@ Desirable and Optional Work should then be encouraged to one degree or another.
 The main reason for identifying "**Essential Work**" is that this is the work that needs to be covered somehow for a Post Work Society to function.
 If the Essential Work is not done then Society eventually stops functioning.
 
-So what kind of Work would we classify as Essential Work? Fortunately, we have some recent history to look at here taht is helpful for providing examples.
+So what kind of Work would we classify as Essential Work? Fortunately, we have some recent history to look at here that is helpful for providing examples.
 
 During the COVID Pandemic between 2020 and 2023 when only "Essential Workers" were allowed to leave home it was necessary to do exactly that.
 Governments worldwide were forced to classify specific job classes as Essential Workers (or Key Workers) and grouped the workforce broadly into these major sectors... 
-- Health and Social Care wprkers required to keep healthcare and emergency infrastructure running.
+- Health and Social Care workers required to keep healthcare and emergency infrastructure running.
   * Frontline staff: Doctors, nurses, midwives, paramedics, and dentists.
   * Care workers: Social workers, care home staff, and community volunteers.
   * Support roles: Medical supply chain logistics, pharmacists, lab technicians, and hospital cleaners.
@@ -118,14 +118,14 @@ However, for the reason stated, it is desirable so have some kind of Childcare c
 
 ###  Optional Work
 
-Optional work is any Work that someone chooses to do for their own personal reasons e.g. because they have an interest in the activity or want to learn a new skill or simply wamt to produce something from their own efforts.
+Optional work is any Work that someone chooses to do for their own personal reasons e.g. because they have an interest in the activity or want to learn a new skill or simply want to produce something from their own efforts.
 The potential reasons are endless and the motivations very specific to each individual but the upshot is that this is work that an individual decides for themselves whether they want ti do it and equally decides for themselves when they wan tto stop doing the work.
 
 ###  Unnecessary Work
 
 Unnecessary Work is work that provides no material benefit to Society in general. 
 
-I hesitate to call these "_Bullshit Jobs_" (as per David Graeber's book of that name) burt that's essentially what we're talking about.
+I hesitate to call these "_Bullshit Jobs_" (as per the David Graeber book of that name) but that's essentially what we're talking about.
 These are jobs that nobody really wants to do and nobody would miss if they suddenly stopped being jobs for people. 
 
 As we will see later, an awful lot of work falls into this category.

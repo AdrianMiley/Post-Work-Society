@@ -21,7 +21,7 @@ Markets have existed for millennia and in their simplest definition a Market is 
 However, as with most abstract concepts that look simple on the surface it's in the physical implementation where all the complexity lies.
 
 There are Markets for just about anything that can be traded and anything can be traded in some Market or another. 
-There is no "single market" for anything but iunstead "the Market" that most people refer to is the aggregation of all the markets that a Society provides pr participates in.
+There is no "single market" for anything but instead "the Market" that most people refer to is the aggregation of all the markets that a Society provides pr participates in.
 
 Instead any individual Market can be classified according to a number of different characteristics including...
 
@@ -35,7 +35,7 @@ A Market can be a Monetary Market or a Barter Market
 
 A Market can be a Free Market or a Regulated Market.
 - A Free Market is where Goods & Services can be freely exchanged
-- A Regulated Market is a Market where an outside Regulator defines a set of constraints taht all Parties involved in any Trade within that Market must adhere to. 
+- A Regulated Market is a Market where an outside Regulator defines a set of constraints that all Parties involved in any Trade within that Market must adhere to. 
 
 A Market can be an Open Market or a Closed Market
 - An Open Market is a Market where Prices are set naturally by supply and demand and anyone anyone can buy or sell goods, services, or assets with minimal government rules, tariffs, or entry barriers.
@@ -48,7 +48,7 @@ A Market can be a Spot Market or a Futures Market
 A Market can be a Global Market or a Regional Market or an Internal Market
 - A Global Market is a Market where Goods & Services are traded continuously across international borders, operating as a massive, unified network 
 - A Regional Market is a Market that spans a specific, bounded geographic area rather than the entire planet (Global)
-- An Internal Market (commonly known as a Single Market or Common Narket) is a highly integrated trading zone where there are zero internal borders, tariffs, or regulatory barriers to trade. 
+- An Internal Market (commonly known as a Single Market or Common Market) is a highly integrated trading zone where there are zero internal borders, tariffs, or regulatory barriers to trade. 
 
 | Feature       | Regional or Internal Market                                     | Global Market                                                                               |
 |---------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------|

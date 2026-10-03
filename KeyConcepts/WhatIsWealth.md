@@ -19,12 +19,12 @@ Financial institutions and economists classify wealth into distinct categories b
 | Financial (Liquid) Wealth       | Cash or easily convertible assets such as bank deposits and money market funds                                                                                                  |
 | Notional (Unrealised) Wealth    | Paper wealth based on current market valuation such as unsold stocks & shares, crypto, or private equity.                                                                       |
 | Generational (Inherited) Wealth | Wealth accumulated by previous generations and passed down through families via trusts or wills                                                                                 |
-| Self-Made Wealth                | Wealth accumulated within a single individual's lifetime through theirt won economic activity                                                                                   |
+| Self-Made Wealth                | Wealth accumulated within a single individual's lifetime through their won economic activity                                                                                   |
 | Investable Wealth               | Used by Financial Institutions to bracket Wealth based on **liquid investable assets**, excluding personal properties like a primary home, vehicles, pensions, or collectibles. |
 
 In addition, when we talk about the Asset Value we have multiple ways of calculating that depending on the Asset Type.
 The chosen method depends entirely on whether the asset is Income Generating, has a Market Quoted Price or is a unique Collectible item.
-These are just some of the methods but not an exhaustyive list of Asset Types.
+These are just some of the methods but not an exhaustive list of Asset Types.
 
 | Asset Type            | Valuation Method  | Approach                                                                                                                         | 
 |:----------------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------|

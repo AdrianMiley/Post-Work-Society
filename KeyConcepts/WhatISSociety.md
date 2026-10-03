@@ -39,7 +39,7 @@ classDiagram
 
 ##  Government
 
-Every Society has a Government resposonsible for managing that Society on behalf the its Citizens and with the unique power to make laws and enforce them on everyone.
+Every Society has a Government responsible for managing that Society on behalf the its Citizens and with the unique power to make laws and enforce them on everyone.
 
 The governing body of a society is the committee, board of directors, council, or group of trustees legally entrusted with managing the society's affairs. Under legal frameworks like the [Societies Registration Act](https://www.advocatekhoj.com/library/bareacts/societiesregistration/16.php?Title=Societies%20Registration%20Act,%201860&STitle=Governing%20body%20defined) and the [Co-operative and Community Benefit Societies Act](https://www.legislation.gov.uk/id/ukpga/2014/14), this group holds ultimate responsibility for ensuring the organisation operates lawfully, financially securely, and in accordance with its written rules. [1, 2, 3]
 
