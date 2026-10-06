@@ -5,16 +5,6 @@ nav_order: 5
 ---
 #   Trends In Society
 
-Why do I think we need to move towards a Post Work Society?
-
-This isn't some arbitrary "I think it would be nice to have" idea, it's based on a lot of research and analysis of current trends in Society and how I think those trends are likely to affect the future of Society.
-As noted elsewhere this is also something that has been percolating in the back of my mind for decades.
-
-The various trends I looked at (and they are not the only trends that we should be concerned about) indicate a very real cause for concern that I think need to be addressed sooner rather than later in order to avoid a collapse in Society and descent into some horrible Dystopian future.
-That might seems a bit over-dramatic (I've probably read too many post-apocalyptic sci-fi books) but I think that the evidence is there to support that conclusion.
-
-##  Why Trends Are Important
-
 Societies, like any other fluid system, change over time and how they change affects how a Society organizes and manages itself and ultimately whether that society is of net benefit to the people that live in it.
 
 To ensure the beneficial outcome change needs to be monitored and managed to ensure that the change is in a desired direction.
@@ -29,6 +19,25 @@ This is the art of **Change Management**, a well established "Cause & Effect" ac
 - ... and proposing changes to mitigate the impact of a trend continuing in whatever direction it's going in.  
 
 Like any other data analysis activity "Trends In Society" then becomes a question of deciding which trends are the most significant ones to monitor i.e. which gives uis the most significant information for the least amount of analytical effort.
+
+##  Summary Of Trends
+
+-	Population is ageing
+-	Birth rate is falling
+-	Useful jobs are declining (due to automation)
+-	National debt is rising
+-	Balance of payments gap is widening
+-	Democracy is becoming more fragmented and less representative
+-	Reported crime rates are rising
+-	Urbanizationn of the population is increasing
+-	Agricultural land (and domestic food production) is declining
+-	Gap between Market Values and Real Asset Values is widening
+
+There is also emerging evidence that
+-	Democratic engagement is falling amongst young people - they've given up on it
+-	Young people are increasingly "economically inactive"
+
+Every G20 country have most (all?) of these problems to one extent or another and, in most cases, it because of the the Western worlds rejection of the "share anything" social model. 
 
 ##  Interesting Trends
 
@@ -48,12 +57,12 @@ It is published in partnership with the UN Sustainable Development Solutions Net
 
 ##  A Note on Accuracy
 
-One of the things about dealing with very large data-sets is that accuracy becomes less important compare to the overall trend.
+One of the things about dealing with very large data-sets is that accuracy becomes less important compared to identifying the overall trend.
 For example, if you are looking at a population of 7 billion people and you are trying to determine the overall trend in population growth, it doesn't really matter if the population is 6.9 billion or 7.1 billion.
 The difference between them are fractions of a percent i.e. if we're talking about a billion and we're out by a million then the variance is only 0.1% or to put ot another way, we're 99.9% accurate.
 It's accurate enough for the overall trend to still be usable.
 
-Unfortunately, being a private citizen working outside of government or academia, it's also the case that I don't have access to all the underlying highly granular data required to do a deep-dive into some of the trends.
-Consequently even though I might have asked a particular question and tried to arrive at an answer but the answer itself is unverifiable without having direct access to the data.
+In addition, being a private citizen working outside of government or academia, it's unfortunately also the case that I don't have access to all the underlying highly granular data required to do a deep-dive into some of the trends.
+Consequently, even though I might have asked a particular question and tried to arrive at an answer, the answer itself is unverifiable without having direct access to the data.
 
 There are also the various data quality issues described in [Analysis Overview](../Appendices/AnalysisOverview) appendix to bear in mind. 
