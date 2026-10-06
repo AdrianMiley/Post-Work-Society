@@ -5,35 +5,48 @@ nav_order: 1
 ---
 #   Introduction
 
-Before starting on any activity it's always worth some time defining "_what we intend to do_" i.e establish the Objectives and the scope of those Objectives.
+Once upon a time I was promised a golden future but instead there seems to be an awful lot of unhappiness in the world.
 
-These proposals are based in the following core objectives (in no particular order)...
-- Establish the minimum set of essential services required to operate a modern society.
-- Automating what can be automated in order to minimise the number of essential people needed to keep those essential services running.
-- Providing the services essentials to living on a _"Minimum Cost Basis"_ so that people can people can focus their lives on the things that they find fulfilling
-- Provide a _"Minimum Guaranteed Incomes"_ so that people can afford to buy
-- Enable _"Direct Democracy"_ to make the Management of Society more responsive to the desires of the Citizens and remove the disproportionate influence of Non-Citizens
+Most of that unhappiness appears to be the result of the same set of factors unhappiness in every nation where people have expressed an opinion.
+These include...
+- the gap between the rich and the poor getting wider and wider
+- the majority of people being stuck in jobs that they don't enjoy and that don't really add any value to society
+- the political system being dominated by special interests and the wealthy, rather than being responsive to the needs of the people
+- the average cost of living significantly outstripping average earnings
+- the social fabric of our society being torn apart by polarization and division between sub-groups of Society
+- ... and I could go on
 
-In addition, a lot of this is focussed on the United Kingdom but this is not because I think the UK is the only country that has these problems, but rather because...
-- I am a UK citizen and I am most familiar with the UK and its problems.
-- I have access to a lot of UK specific data that is not so easily accessed for other countries.
-- Geat Britain, the geographic location, is an island so easier to put a defined boundary around it, with a clear separation between the UK and the rest of the world.
-- The UK is a relatively wealthy country, which means that it has more resources to invest in solutions to these problems than many other countries.
-- The UK is a relatively small country, which means that it is easier to implement and test solutions to these problems than in larger countries.
+This "_unhappiness_" is, in my mind, a ridiculous situation to be in given the technological developments of the last few decades.
+There is no need for people to be "_working all the hours that god sends just to make ends meet_" (an old saying I first heard as a child in the 1970's but originating from the 17th Century).
+Theoretically, we should easily have the production capacity to meet all the world's essential living needs (the infrastructure of society) with little or no manual input required by human beings to keep that basic infrastructure operational.
 
-This is not to say that the problems and potential solutions in the UK are unique, but rather that it is easier to stick a boundary around the UK and analyse it in order to come up with proposals to improve it.
+We (Humans) can move beyond the stage in human civilization where everyone needed to work in order to survive because "survivability" is now a function of Society in general rather than the individual.
+This is what is called the "Post Work Society" which is a possible future Society where traditional, mandatory employment becomes mostly obsolete because of technological progress.
+In this kind of Society advanced technology takes over the majority of repetitive, manual, and even complex cognitive tasks.
 
-There are, of course, many other countries and regions that would meet similar criteria and might well want to create their own equivalent Post Work Society.
-Some countries are already on that road and further ahead than the UK in some areas and, depending on the democratic system they have, will probably have different solutions to the same overall problems.
+I'd even go as far as saying that we are rapidly reaching a juncture in the evolution of human civilization where we need to get back on track and make some fundamental decisions about what we expect from the future.
 
-For example, Australia (the continent) is also an island with a mostly self-contained economy, and Australia (the country) is also a relatively wealthy country with a relatively small population.
-However, it is a much, much larger land-mass that brings other factors, such as geographic distribution and remote populations, into play.
-This means that regional priorities on essential services would likely change and that some technologies become more significant than other technologies.
+On the one hand we have the "Utopian Vision" with Human Society flourishing because the immense wealth generated by AI and robots is distributed fairly unlocking a new golden age for humanity.
+- True Time Control: People control their own hours, choosing to spend time with family, learn new skills, or travel.
+- Voluntary Work: Labor doesn't disappear; it changes. People work on passion projects, scientific research, or artistic endeavors because they want to, not because they have to.
+- Thriving Communities: Individuals dedicate free time to care work, local gardening, volunteer sports coaching, and neighborhood improvement.
 
-On a larger scale we have entire continents where the borders between Sovereign Nation States can be a bit fuzzy or poorly defined (and in some cases disputed) so "leakage" from one society to another is inevitable.
-In these cases if you significantly improve the happiness of one society without significantly improving the happiness level of its neighbouring societies then you most likely end of with mass migration from the "unhappy states" to the "happy states".
-This presents a significant problem when it comes to preserving the "cultural identity" of a society.
+On the other hand we have the "Dystopian Risk" where without careful planning, a world without jobs could trigger severe social instability.
+- Extreme Inequality: If a few tech corporations own all the robots and AI, wealth will pool at the top, leaving the rest of the population entirely penniless.
+- The Meaning Crisis: For generations, work has given people identity, structure, and a reason to wake up. Without it, many might struggle with depression, aimlessness, and unstructured time.
+- Social Isolation: If community spaces aren't built to replace the workplace, individuals could become highly isolated and disconnected from others.
 
-Neither problem is a long-term blocker to progress but they do make the analysis more complex and less focused on the core issues that I want to explore in this project.
-(I'll also be honest and say that Macro-Sociology is not something that I'm very knowledgeable about.)
+Objectively looking at the current state of human civilization (beyond just the state of the UK or Europe or any other geographic region) the various Trends in Society indicate that we're **currently on the road to Dystopia**
+but I think it's obvious that **any reasonable person would prefer to be heading towards Utopia**.
 
+This is what I personally would want but building towards a Post Work Society requires not only a vision of what that Society will eventually look like but also requires a planned transition from where we are now to where we want to be.
+There are lots of published visions of how to improve some aspect of society but, as far as I can tell, nobody has yet put in place an integrated view of how the various ideas might integrate together.
+
+This I think is important because society is complex and just fixing one part of it will not necessarily produce a net overall benefit. We have to think about the holistic whole in order to achieve something that is both sustainable and can be iteratively improved over time.
+
+In my mind this can be delivered by [Reforming Society](../ReformingSociety/ReformingSocietySummary) and utilizing [Enabling Technologies](../EnablingTechnologies/EnablingTechnologiesSummary) that potentially provide the capabilities that we need in order to achieve our Objectives.
+
+However, these kind of fundamental changes to Society are just the tip of the iceberg and there are many implications that go beyond the proposed structural Economic and Political Reform.
+Finally, although not an essential part of creating a Post Work Society there are [further implications](../FurtherThoughts/FurtherThoughts) to doing so including a certain amount of [Social Reform](../ReformingSociety/SocialReform/SocialReformSummary) to establish the expectations that Citizens should have about the Society in which they live (or propose to live in).
+
+Finally, everything should have a [Getting There](../GettingThere/GettingThereSummary) plan outlining how we get from where we are now to where we want to be and criteria for [how we measure success](../GettingThere/MeasuringSuccess) to show how well we are achieving it and where we can make on-going improvements.

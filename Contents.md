@@ -9,8 +9,9 @@ This section provides a complete hierarchical set of links to each distinct page
 
 1. Contents (this section)
 2. [Introduction](./Introduction/IntroductionSummary)
-   1. [Ignoring "The Left" and "The Right"](Introduction/IgnoringLeftAndRight)
-   2. [Importance of Context](Introduction/ImportanceOfContext)
+   1. [Scope and Objectives](Introduction/ScopeObjectives)
+   2. [Ignoring "The Left" and "The Right"](Introduction/IgnoringLeftAndRight)
+   3. [Importance of Context](Introduction/ImportanceOfContext)
 4. [Design Principles](DesignPrinciples/DesignPrinciplesSummary)
    1. [What Are Design Principles](DesignPrinciples/WhatAreDesignPrinciples)
    2. [Prioritizing People](DesignPrinciples/PrioritizingPeople)
