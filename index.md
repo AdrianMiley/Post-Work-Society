@@ -8,9 +8,9 @@ nav_order: 0
 A Post Work Society is a utopian vision of a future society in which traditional, mandatory employment becomes mostly obsolete because of technological progress. In this kind of society, advanced technology takes over the majority of repetitive, manual, and even complex cognitive tasks.
 
 It's not a new concept. 
-In fact the concept has been around for a couple of centuries with the first mentions appearing in the 1840's as a resulting from the technological advances made in the Industrial Revolution.
+In fact the concept has been around for a couple of centuries with the first mentions appearing in the 1840's as a result of the technological advances made in the Industrial Revolution.
 
-However, despite these early visions, the transition to a post-work society has been slow and uneven and whilst technology has advanced rapidly, societal structures and economic systems have not fully adapted to accommodate the potential for reduced work hours and increased leisure time.
+However, despite these early visions, the transition to a post-work society has been slow and uneven (some would say non-existent) and whilst technology has advanced rapidly, societal structures and economic systems have not fully adapted to accommodate the potential for reduced work hours and increased leisure time.
 
 Even though we are not yet at the point when a true Post-Work Society is a reality (and likely won't be there for at least a few more decades) there are still many things that can be done to move society in that direction.
 
