@@ -1,9 +1,9 @@
 ---
-title: Definition Of Terms
+title: Basic Concepts
 layout: default
 nav_order: 4
 ---
-##  Definition Of Terms 
+##  Basic Concept Definitions 
 
 |                                                                                              |                  |
 |----------------------------------------------------------------------------------------------|------------------|

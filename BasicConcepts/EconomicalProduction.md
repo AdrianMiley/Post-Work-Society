@@ -1,7 +1,7 @@
 ---
 title: What is Economical Production  
 layout: default
-parent: Economics Concepts
+parent: Basic Concepts
 nav_order: 4
 ---
 #   What is Economical Production?
