@@ -1,8 +1,8 @@
 ---
 title: What Is Democracy  
 layout: default
-parent: Democratic Reform
-nav_order: 1
+parent: Political Science Concepts
+nav_order: 2
 ---
 #   What Is Democracy?
 

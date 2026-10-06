@@ -22,7 +22,7 @@ Democracy is also a process that can be broadly summarized as...
 4. Votes are counted after that date
 5. A winner is decided based on the Votes cast
 
-However, even within that basic framework there are many variations on how Democracy, and the Democratic Process, is implemented as described in [What Is Democracy](./WhatIsDemocracy)
+However, even within that basic framework there are many variations on how Democracy, and the Democratic Process, is implemented as described in [What Is Democracy](../../BasicConcepts/WhatIsDemocracy.md)
 along with a number of [Problems with Democracy](./ProblemsWithDemocracy) that severely affect how representative a particular Democracy is.
 
 ##  Proposed Improvements
