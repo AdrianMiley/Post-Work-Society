@@ -1,9 +1,10 @@
 ---
-title: What Is Socialism  
+title: Socialism  
 layout: default
-parent: What is Economical Production
+parent: Economical Production
+nav_order: 3
 ---
-#   What Is Socialism?
+#   Socialism
 
 Note: lots of people will read this and claim that this is not Socialism and instead quote some ultra-hardline definition usually from some text written 100+ years ago (Lenin is popular) when the world was very different.
 However, I don't care about those very old definitions because Socialism, like Capitalism, has evolved over time and this is my current definition of what a Socialist Enterprise would be. 

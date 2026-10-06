@@ -1,7 +1,7 @@
 ---
 title: What Is Society 
 layout: default
-parent: Political Concepts
+parent: Socio-Political Concepts
 nav_order: 1
 ---
 #   What Is Society?

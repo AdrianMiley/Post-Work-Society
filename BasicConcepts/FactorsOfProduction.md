@@ -1,8 +1,8 @@
 ---
 title: Factors of Production  
 layout: default
-parent: What is Economical Production
-nav_order: 7
+parent: Economics Concepts
+nav_order: 1
 ---
 #   Factors of Production
 

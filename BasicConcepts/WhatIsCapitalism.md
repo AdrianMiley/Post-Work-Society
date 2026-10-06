@@ -1,10 +1,10 @@
 ---
-title: What Is Capitalism  
+title: Capitalism  
 layout: default
-parent: What is Economical Production
-nav_order: 4
+parent: Economical Production
+nav_order: 2
 ---
-#   What is Capitalism?
+#   Capitalism
 
 Capitalism is an economic system organized around private ownership of productive assets, voluntary exchange in markets, and the pursuit of monetary profit.
 Modern Capitalism emerged from the decline of Feudal arrangements and the ascent of the Industrial Revolution.

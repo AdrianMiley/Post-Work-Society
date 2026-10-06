@@ -1,7 +1,7 @@
 ---
-title: Political Concepts  
+title: Political Science Concepts  
 layout: default
-parent: Key Concepts
+parent: Basic Concepts
 nav_order: 1
 ---
-#   Political Concepts
+#   Political Science Concepts
