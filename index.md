@@ -5,69 +5,18 @@ nav_order: 0
 ---
 #   Towards a Post Work Society
 
-It's no secret that there is a lot of unhappiness in the world and it appears that it's the same set of factors that are driving unhappiness in every nation where people have expressed an opinion.
-These include...
-- the gap between the rich and the poor getting wider and wider
-- the majority of people being stuck in jobs that they don't enjoy and that don't really add any value to society
-- the political system being dominated by special interests and the wealthy, rather than being responsive to the needs of the people
-- the average cost of living significantly outstripping average earnings
-- the social fabric of our society being torn apart by polarization and division between sub-groups of Society
-- ... and I could go on
+A Post Work Society is a utopian vision of a future society in which traditional, mandatory employment becomes mostly obsolete because of technological progress. In this kind of society, advanced technology takes over the majority of repetitive, manual, and even complex cognitive tasks.
 
-Some of these are perceived problems and some are real issues that need to be addressed if we want to rebalance society and move towards a happier life for the majority of people living in society.
+It's not a new concept. 
+In fact the concept has been around for a couple of centuries with the first mentions appearing in the 1840's as a resulting from the technological advances made in the Industrial Revolution.
 
-This "_unhappiness_" is, in my mind, a ridiculous situation to be in given the technological developments of the last few decades.
-There is no need for people to be "_working all the hours that god sends just to make ends meet_" (an old saying I first heard as a child in the 1970's but originating from the 17th Century).
-Theoretically, we should easily have the production capacity to meet all the world's essential living needs (the infrastructure of society) with little or no manual input required by human beings to keep that basic infrastructure operational.
+However, despite these early visions, the transition to a post-work society has been slow and uneven and whilst technology has advanced rapidly, societal structures and economic systems have not fully adapted to accommodate the potential for reduced work hours and increased leisure time.
 
-We (Humans) can move beyond the stage in human civilization where everyone needed to work in order to survive because "survivability" is now a function of Society in general rather than the individual.
-This is what is called the "Post Work Society" which is a possible future Society where traditional, mandatory employment becomes mostly obsolete because of technological progress.
-In this kind of Society advanced technology takes over the majority of repetitive, manual, and even complex cognitive tasks.
+Even though we are not yet at the point when a true Post-Work Society is a reality (and likely won't be there for at least a few more decades) there are still many things that can be done to move society in that direction.
 
-The idea of less work to survive is not new.
-In 1930, John Maynard Keynes (an Economist that made major contributions to the creation of the UK Welfare State in the 1940's) predicted that technology would bring a 15-hour workweek within a century.
-Even Karl Marx imagined a future where automation would allow people to "hunt in the morning, fish in the afternoon, and criticise after dinner".
+The purpose of "_Towards a Post Work Society_" is to highlight what is currently possible and propose a series of social, economic and political changes that could be progressively made to move society towards a Post Work Society.
+It is a collection of ideas and proposals that I think moves Society away from the current "Work to Live" social environment towards a more fulfilling existence where only "essential work" is required and people are mostly free to live whatever kind of life they personally regard as being "fulfilling".
 
-The implications of this are that...
-- The application of Technology will make "human labour" a diminishing activity and "human leisure" an increasing one.
-- More and more of Societies energy generation requirements will be produced using "**Renewable Energy**"
-- Private Property i.e. Individually Owned Property will decrease over time and be replaced by "**Shared Property**"
-- Money (the system used to pay for goods & services) will become fully digitalised and effectively unlimited
-- Democracy (the system used to make decisions) will become decentralized
+It is also a continuous work in progress and evolutionary in nature because t hat's how progress is made.
 
-Yet, here we are 100+ years later and these visions of the future failed to happen not because they were unrealistic but because somewhere along the road we lost focus on what society is for and who it is supposed to benefit. 
-
-I'd even go as far as saying that we are rapidly reaching a juncture in the evolution of human civilization where we need to get back on track and make some fundamental decisions about what we expect from the future.
-
-On the one hand we have the "Utopian Vision" with Human Society flourishing because the immense wealth generated by AI and robots is distributed fairly unlocking a new golden age for humanity.
-- True Time Control: People control their own hours, choosing to spend time with family, learn new skills, or travel.
-- Voluntary Work: Labor doesn't disappear; it changes. People work on passion projects, scientific research, or artistic endeavors because they want to, not because they have to.
-- Thriving Communities: Individuals dedicate free time to care work, local gardening, volunteer sports coaching, and neighborhood improvement.
-
-On the other hand we have the "Dystopian Risk" where without careful planning, a world without jobs could trigger severe social instability.
-- Extreme Inequality: If a few tech corporations own all the robots and AI, wealth will pool at the top, leaving the rest of the population entirely penniless.
-- The Meaning Crisis: For generations, work has given people identity, structure, and a reason to wake up. Without it, many might struggle with depression, aimlessness, and unstructured time.
-- Social Isolation: If community spaces aren't built to replace the workplace, individuals could become highly isolated and disconnected from others.
-
-Objectively looking at the current state of human civilization (beyond just the state of the UK or Europe or any other geographic region) the various Trends in Society indicate that we're **currently on the road to Dystopia**
-but I think it's obvious that **any reasonable person would prefer to be heading towards Utopia**.
-
-This is what I personally would want but building towards a Post Work Society requires not only a vision of what that Society will eventually look like but also requires a planned transition from where we are now to where we want to be.
-There are lots of published visions of how to improve some aspect of society but, as far as I can tell, nobody has yet put in place an integrated view of how the various ideas might integrate together.
-
-This I think is important because society is complex and just fixing one part of it will not necessarily produce a net overall benefit. We have to think about the holistic whole in order to achieve something that is both sustainable and can be iteratively improved over time. 
-
-So what we have here are a set of proposals that I think moves Society away from the current "Work to Live" towards a more fulfilling existence where only "essential work" is required and people are mostly free to live whatever kind of life they personally regard as being "fulfilling".
-These proposals are based in the following core objectives (in no particular order)...
-- Establish the minimum set of essential services required to operate a modern society.
-- Automating what can be automated in order to minimise the number of essential people needed to keep those essential services running.
-- Providing the services essentials to living on a _"Minimum Cost Basis"_ so that people can people can focus their lives on the things that they find fulfilling
-- Provide a _"Minimum Guaranteed Incomes"_ so that people can afford to buy
-- Enable _"Direct Democracy"_ to make the Management of Society more responsive to the desires of the Citizens and remove the disproportionate influence of Non-Citizens
-
-All of the above, in my mind, can be delivered by [Reforming Society](ReformingSociety/ReformingSocietySummary) and utilizing [Enabling Technologies](EnablingTechnologies/EnablingTechnologiesSummary) that potentially provide the capabilities that we need to have in place in order to achieve our Objectives.
-
-However, these kind of fundamental changes to Society are just the tip of the iceberg and there are many implications that go beyond the proposed structural Economic and Political Reform.
-Finally, although not an essential part of creating a Post Work Society there are [further implications](FurtherThoughts/FurtherThoughts) to doing so including a certain amount of [Social Reform](ReformingSociety/SocialReform/SocialReformSummary) to establish the expectations that Citizens should have about the Society in which they live (or propose to live in).
-
-Finally, everything should have a [Getting There](GettingThere/GettingThereSummary) plan outlining how we get from where we are now to where we want to be and criteria for [how we measure success](GettingThere/MeasuringSuccess) to show how well we are achieving it and where we can make on-going improvements.
+Consequently I welcome any feedback, suggestions or ideas that you may have to improve the proposals and ideas presented here.
