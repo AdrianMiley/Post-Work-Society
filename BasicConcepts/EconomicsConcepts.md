@@ -2,22 +2,22 @@
 title: Economics Concepts
 layout: default
 parent: Basic Concepts
-nav_order: 2
+nav_order: 3
 ---
 ##  Economics Concepts
 
 ##  Economics
 
-Economics is the study of how people, businesses, and governments make choices when resources are limited.
-While an Economy is the actual system where buying and selling happens, Economics is the study of how that system works.
-
-The driving force behind all of economics managing Scarcity.
+Economics is the study of how people, businesses, and governments make choices when resources are limited or specific economic outcomes are desired.
+The driving force behind all of economics is managing scarcity.
 
 - The Problem: The world has a limited amount of resources (oil, gold, time, labour).
 - The Reality: Humans have an unlimited desire for goods, services, comfort, and safety.
 - The Result: Because we cannot have everything we want, we must make choices. Every choice involves a trade-off.
 
-So, in essence **Economics is the study of trade-offs!** and, at its core, Economics is a social science that tries to understand how the world allocates its scarce resources to satisfy human needs and endless wants.
+While an Economy is the actual system where buying and selling happens, Economics is the study of how that system works.
+
+So, in essence **Economics is the study of trade-offs** and, at its core, Economics is a social science that tries to understand how the world allocates its scarce resources to satisfy human needs and endless wants.
 
 2. What **Goods & Services** should be produced?
 2. How should they be produced?

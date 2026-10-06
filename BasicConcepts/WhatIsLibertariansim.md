@@ -1,7 +1,7 @@
 ---
 title: What Is Libertarianism  
 layout: default
-parent: Political Concepts
+parent: Political Science Concepts
 ---
 #   What Is Libertarianism
 

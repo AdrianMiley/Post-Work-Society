@@ -1,7 +1,7 @@
 ---
 title: What Is A Post Work Society 
 layout: default
-parent: Political Concepts
+parent: Political Science Concepts
 nav_order: 1
 ---
 #   What Is A Post Work Society?

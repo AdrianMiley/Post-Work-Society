@@ -1,7 +1,7 @@
 ---
 title: What Is Government 
 layout: default
-parent: Political Concepts
+parent: Political Science Concepts
 nav_order: 1
 ---
 #   What Is Government?

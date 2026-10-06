@@ -7,7 +7,7 @@ nav_order: 4
 #   Economics Of Production
 
 The "_Economics of Production_" is the branch of Economics that deals with the process of combining resource inputs to manufacture goods or services that satisfy human needs and wants.
-To m,ost people nowadays that means "Capitalism"
+To most people nowadays that means "Capitalism"
 
 However, with "**Economical Production**" I'm using a slightly different term because in a Post Work Society the _motivation for production_ completely changes from "_maximising profit_" to "_maximising the public benefit that a Society receives from that production_".
 
